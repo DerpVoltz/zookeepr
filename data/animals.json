@@ -117,24 +117,6 @@
         "hungry"
       ],
       "id": "11"
-    },
-    {
-      "name": "dsa",
-      "species": "dsa",
-      "diet": "folivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "12"
-    },
-    {
-      "name": "dsa",
-      "species": "dsad",
-      "diet": "folivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "13"
     }
   ]
 }
